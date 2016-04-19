@@ -1,4 +1,5 @@
 # hallo-wereld
-zo lekker testen punt en el
+lekker testen punt en el
+hiermee conflicteren?
 
-heeft even geduurd maar eindelijk goed github in, hulluk!
+extra graties regel
